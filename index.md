@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./page1.html).
+[Link to another page](./page2.html).
 
 There should be whitespace between paragraphs.
 
