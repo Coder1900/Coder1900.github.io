@@ -12,13 +12,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # about me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Solomon and I am 14 years old. My favourite sport is tennis. 
 
 # my projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+When I started programing i moved from one programing language to another for a while. I  have just started to learn python and have done a couple of projects. 
+Some of which are:
+prime number finder
+basic calculater
+guessing game
 
 ### Header 3
 
