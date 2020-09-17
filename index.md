@@ -18,8 +18,8 @@ My name is Solomon and I am 14 years old. My favourite sport is tennis.
 
 When I started programing i moved from one programing language to another for a while. I  have just started to learn python and have done a couple of projects. 
 Some of which are:
-prime number finder
-basic calculater
+prime number finder,
+basic calculater and
 guessing game
 
 ### Header 3
